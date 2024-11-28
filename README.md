@@ -1,46 +1,30 @@
-# **Project Name**
+<h1 align="center">Hi 👋, I'm Any</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-![License](https://img.shields.io/github/license/<username>/<repo-name>?style=flat-square)
-![Version](https://img.shields.io/github/package-json/v/<username>/<repo-name>?color=blue)
-![Contributors](https://img.shields.io/github/contributors/<username>/<repo-name>?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/<username>/<repo-name>)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
-## 🚀 **About the Project**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github" alt="github" /></a> </p>
 
-[Provide a brief introduction about your project. What is its purpose?]
+- 🔭 I’m currently working on **A**
 
----
+- 🌱 I’m currently learning **Power BI**
 
-## 🔑 **Key Features**
+- 💬 Ask me about **AA**
 
-- [Feature 1: Description]
-- [Feature 2: Description]
-- [Feature 3: Description]
+- 📫 How to reach me **AA**
 
----
+- 📄 Know about my experiences [ad](ad)
 
-## 🛠️ **Tech Stack**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/leet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet" height="30" width="40" /></a>
+</p>
 
-- **Frontend**: [React, Angular, etc.]
-- **Backend**: [Node.js, Django, etc.]
-- **Database**: [MySQL, MongoDB, etc.]
-- **Other Tools**: [Libraries or tools used]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=github&show_icons=true&locale=en&layout=compact" alt="github" /></p>
 
-## 📦 **Installation**
-
-### **Prerequisites**
-
-- [Node.js >= version, Python >= version, or other requirements]
-
-```bash
-# Clone the repository
-git clone https://github.com/<username>/<repo-name>.git
-
-# Navigate to the project directory
-cd <repo-name>
-
-# Install dependencies
-npm install   # or pip install -r requirements.txt for Python projects
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&locale=en" alt="github" /></p>
