@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **python**
 
-- 📫 How to reach me **chetankute45@gmail.com**
+- 📫 How to reach me **rahulbhyadav@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
